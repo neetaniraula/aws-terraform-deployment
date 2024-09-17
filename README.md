@@ -4,7 +4,9 @@ This project demonstrates the setup of AWS infrastructure using Terraform, inclu
 
 Prerequisites
 Terraform: Install Terraform on your local machine.
+
 AWS CLI: Install AWS CLI and configure it with your AWS credentials (aws configure).
+
 Git: Ensure Git is installed and configured on your system.
 
 Setup Instructions:
