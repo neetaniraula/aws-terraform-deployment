@@ -26,9 +26,13 @@ terraform destroy
 Project Components:
 
 main.tf: Main configuration file for creating AWS resources.
+
 variables.tf: Defines input variables for customizing the deployment.
+
 provider.tf: AWS provider configuration.
+
 outputs.tf: Displays the output values after deployment, such as VPC ID and subnet IDs.
+
 Notes:
 
 Ensure your AWS credentials are properly configured and have sufficient permissions to create and manage the required AWS resources.
